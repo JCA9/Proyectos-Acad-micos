@@ -1,0 +1,1 @@
+En esta carpeta se encuentran algunos proyectos que realicé utilizando HTML y CSS, pero sobre todo JAVASCRIPT
